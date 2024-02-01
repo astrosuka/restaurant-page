@@ -1,6 +1,7 @@
 import loadHome from "./home-page";
 import loadAbout from "./about";
 import loadMenu from "./menu";
+import "./style.css";
 
 loadHome();
 
@@ -24,8 +25,6 @@ function pageLoader() {
         content.textContent = '';
         loadAbout();
     })
-
-    
 
 }
 

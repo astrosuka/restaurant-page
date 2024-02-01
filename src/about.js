@@ -2,7 +2,7 @@ export default function about() {
     const content = document.querySelector('#content');
 
     const title = document.createElement('h1');
-    title.textContent = "About";
+    title.textContent = "About Us";
 
     const text = document.createElement('p');
     text.textContent = `Lorem, ipsum dolor sit amet consectetur adipisicing elit. Maxime eius accusamus quidem tempora laboriosam velit, vel inventore ipsam ducimus incidunt numquam saepe officiis id tenetur excepturi, quae, nobis dolore quaerat!
