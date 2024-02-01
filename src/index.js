@@ -1,3 +1,3 @@
-import homePage from "./homeE-page";
+import homePage from "./home-page";
 
 homePage();

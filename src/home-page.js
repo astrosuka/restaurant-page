@@ -12,5 +12,5 @@ export default function homePage() {
     const description = document.createElement('p');
     description.textContent = 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Unde deleniti reprehenderit a similique qui iste reiciendis quis voluptatem velit! Inventore illo rerum libero debitis alias assumenda omnis et corrupti veritatis.';
 
-    content.append(image, title, description);
+    content.append(title, description, image);
 }
