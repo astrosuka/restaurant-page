@@ -25,7 +25,7 @@ header {
     align-items: center;
     justify-content: center;
     border: 1px solid var(--accent);
-    border-top: none;
+    border-top: 16px solid var(--accent);
     border-bottom: none;
 }
 
